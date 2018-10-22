@@ -1,5 +1,5 @@
 /*
-WIMFluence calculates moment influence lines and the resulting shear and moment reactions based on weigh-in-motion data. Copyright © 2016-2018 Kenneth Pasley
+WIMFluence calculates shear and moment influence lines and the resulting shear and moment reactions based on weigh-in-motion data. Copyright © 2016-2018 Kenneth Pasley
 
 This file is part of WIMFluence.
 
